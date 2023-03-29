@@ -27,13 +27,13 @@ function Nav() {
       <div className="nav_contents">
         <img
           className="nav_logo"
-          src={require('../../assets/images/Netflix-logo-red-black-png.png')}
+          src={require('./assets/images/Netflix-logo-red-black-png.png')}
       
           alt="Netflix-logo"
         />
         <img
           className="nav_avatar"
-          src={require('../../assets/images/netflic-avatar.png')}
+          src={require('./assets/images/netflic-avatar.png')}
           alt="Netflix-subscription-logo"
         />
       </div>
